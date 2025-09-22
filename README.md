@@ -1,6 +1,6 @@
 1# [:] Example Nod1e Project1
 1
-w
+w1
 An example node project to demonstrate [srcclr](https://www.srcclr.com) scans.
 1
 ## Try me!1
