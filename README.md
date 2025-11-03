@@ -6,7 +6,7 @@ An example node project to de1monstrate [srcclr](https://www.src1lr.com) scans.w
 ## Try me!111111111
 11
 ```1
-brew tap srcclr/srcclrs
+brew tap srcclr/srcclrss
 brew install srcclr
 srcclr activate
 srcclr scan --url https://github.com/srcclr/example-javascript
